@@ -1,10 +1,3 @@
-Here is your complete `README.md` file content in proper GitHub-ready Markdown format.
-
-You can copy this directly into a file named `README.md`.
-
----
-
-````markdown
 # Graph-Based Anti-Money Laundering (AML) Detection Framework  
 Scalable Structural Fraud Detection Using Network Analytics and Risk Scoring  
 
@@ -189,17 +182,3 @@ MIT License
 ## ⭐ Acknowledgment
 
 Developed as part of a Big Data Analytics academic project focused on graph-based fraud detection and scalable network analysis.
-
-```
-
----
-
-If you'd like, I can also create:
-
-- A clean `LICENSE` file (MIT template)
-- A shorter portfolio-style README
-- A research-paper style README
-- A corporate-grade version for job applications
-
-You are fully production-ready now.
-```
