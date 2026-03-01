@@ -1,0 +1,20 @@
+# Core Dependencies
+numpy==1.26.4
+pandas==2.0.3
+
+# Graph Processing
+networkx==3.1
+
+# Machine Learning & Metrics
+scikit-learn==1.3.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# System Utilities
+psutil==5.9.8
+
+# Notebook Environment (if running in Jupyter/Colab)
+jupyter==1.0.0
+notebook==7.0.6
